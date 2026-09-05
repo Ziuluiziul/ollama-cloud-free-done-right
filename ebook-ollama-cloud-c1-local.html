@@ -8,13 +8,14 @@ h1,h2{line-height:1.2} table{border-collapse:collapse;width:100%} td,th{border:1
 .tip{border:2px solid #0a7;border-radius:12px;padding:1rem;margin:1.5rem 0;background:#f4fff8}
 img{max-width:160px} a{color:#06c} code{background:#f3f3f3;padding:0 .25rem;border-radius:4px}
 </style></head><body>
-<p><a href="./">← Landing</a> · <a href="ebook-ollama-cloud-c1-local.pdf">PDF</a></p>
+<p><a href="./">← Landing</a> · <a href="ebook-ollama-cloud-c1-local.pdf">PDF</a> · <a href="MINI-CURSO.html">Mini-curso</a></p>
 <h1>Ebook — Ollama Cloud Free (c=1) + Local</h1>
 <p>Fontes: <a href="https://docs.ollama.com/cloud">cloud docs</a> · <a href="https://ollama.com/pricing">pricing</a> · <a href="https://docs.ollama.com/api/errors">api/errors</a> · <code>GET /api/tags</code></p>
+<p><small>Regen 2026-09-05 20:26 America/Sao_Paulo</small></p>
 <div class="tip">
 <strong>Tip PIX R$10 (Essencial)</strong> — recebedor <strong>LUIZ</strong> · EMV <code>qr_4</code><br/>
 <a href="qr_4.png"><img src="qr_4.png" alt="PIX R$10"/></a><br/>
-<a href="pix_copia_cola_4.txt">copia-cola R$10</a>
+<a href="pix_copia_cola_4.txt">copia-cola R$10</a> · R$20 <a href="pix-r20.png"><code>pix-r20</code></a>
 </div>
 <h2>1. Dois modos</h2>
 <table><tr><th>Modo</th><th>Onde</th><th>Limite</th></tr>
@@ -23,7 +24,7 @@ img{max-width:160px} a{color:#06c} code{background:#f3f3f3;padding:0 .25rem;bord
 <h2>2. Regra Free = concurrent 1</h2>
 <ul>
 <li>Free=1 · Pro=3 · Max/Team=10 (FAQ pricing)</li>
-<li>HTTP <code>429</code> / <code>503</code> — retry só nesses com backoff</li>
+<li>HTTP <code>429</code> / <code>502</code> — retry só nesses (docs api/errors)</li>
 <li>RPM <strong>não</strong> publicado — não inventar</li>
 </ul>
 <h2>3. Serializar</h2>
@@ -38,6 +39,7 @@ img{max-width:160px} a{color:#06c} code{background:#f3f3f3;padding:0 .25rem;bord
 <li>Local: <code>ollama run &lt;modelo&gt;</code></li>
 <li>Cloud CLI: sufixo <code>-cloud</code></li>
 <li>API: <code>POST https://ollama.com/api/chat</code></li>
+<li>Confirmar IDs vivos; ver retirements em docs cloud</li>
 </ul>
 <h2>5. Pacotes</h2>
 <p>R$10=<code>qr_4</code> · R$20=<code>pix-r20</code> · R$50=<code>qr_2</code> · R$100=<code>qr_0</code> · ver <a href="PIX-MAPA.md">PIX-MAPA</a></p>
