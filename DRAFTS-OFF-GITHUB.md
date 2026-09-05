@@ -4,7 +4,11 @@ Repo: https://github.com/Ziuluiziul/ollama-cloud-free-done-right
 Hub: https://ziuluiziul.github.io/round1-cumulunimbus/  
 PIX EMV: R$10=`qr_4` · R$20=`pix-r20` · R$50=`qr_2` · R$100=`qr_0` (nunca R$20 em qr_0)
 
-## 1) Dev.to — título
+## 1) Dev.to — PUBLISHED 2026-09-05
+Live: https://dev.to/ziul_941087d2c1f1edc7d824/ollama-cloud-free-concurrent1-sem-429-playbook-pix-3k8m
+Tags aceites: ai, llm, opensource (tag ollama indisponível)
+
+### Título (publicado)
 Ollama Cloud Free: concurrent=1 sem 429 (playbook + PIX)
 
 Corpo (colar):

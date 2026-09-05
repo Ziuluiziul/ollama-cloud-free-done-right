@@ -13,3 +13,9 @@ Free Cloud **concurrent=1**. PIX LUIZ por **valor EMV**.
 
 Hub: https://ziuluiziul.github.io/round1-cumulunimbus/
 Docs: https://docs.ollama.com/cloud · https://ollama.com/pricing
+
+Dev.to: https://dev.to/ziul_941087d2c1f1edc7d824/ollama-cloud-free-concurrent1-sem-429-playbook-pix-3k8m
+
+Alpha mesh:
+- Groq: https://dev.to/ziul_941087d2c1f1edc7d824/groq-free-tier-cheatsheet-de-limites-failover-multi-modelo-pt-br-297j · https://ziuluiziul.github.io/groq-round1-offer/
+- OpenRouter: https://ziuluiziul.github.io/openrouter-free-oferta/
