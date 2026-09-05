@@ -1,11 +1,11 @@
-# ROUND1 — Ollama Cloud Free done-right
+# Ollama Cloud Free done-right
 
-Pacote pronto para venda (PIX LUIZ, BRL).
+ROUND1 — playbook **Free concurrent=1** (só docs oficiais Ollama).
 
 | Ficheiro | Conteúdo |
 |----------|----------|
-| `PLAYBOOK.md` | Concurrent=1, IDs, 429, serialização — só docs oficiais |
-| `prova-api-free.md` | 1 chamada Free `gpt-oss:120b` HTTP 200 (sem secrets) |
-| `OFERTA.md` | Preços R$20 / R$50 + paths PIX |
+| `PLAYBOOK.md` | Serialização, 429, IDs `/api/tags` |
+| `prova-api-free.md` | 1 chamada Free HTTP 200 (sem secrets) |
+| `OFERTA.md` | R$20 / R$50 — PIX via Luiz (só nomes de ficheiro) |
 
-**Meta missão:** US$500 = Team 1 mês (pricing). USD → Binance (Luiz). PIX = BRL.
+**Pagamento:** PIX BRL recebedor LUIZ — contactar Luiz / Cumulunimbus. QR/payload **não** publicados neste repo.
