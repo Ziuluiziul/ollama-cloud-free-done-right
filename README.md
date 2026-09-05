@@ -19,3 +19,6 @@ Catálogo completo: R$10–200 / livre → `qr_1`…`qr_5` + `pix_copia_cola_*` 
 Fontes oficiais: [docs.ollama.com/cloud](https://docs.ollama.com/cloud) · [ollama.com/pricing](https://ollama.com/pricing)
 
 USD/outras → Binance (Luiz). Sem upgrade pago nesta oferta.
+
+## Hub ROUND1 (Cumulunimbus)
+Todos os packs Alpha + PIX: [https://ziuluiziul.github.io/round1-cumulunimbus/](https://ziuluiziul.github.io/round1-cumulunimbus/)
