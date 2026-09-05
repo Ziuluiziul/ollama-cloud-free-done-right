@@ -21,3 +21,5 @@ Alpha mesh:
 - OpenRouter: https://ziuluiziul.github.io/openrouter-free-oferta/
 
 Volume free+: [FREE-429-CONCURRENT1.md](./FREE-429-CONCURRENT1.md)
+
+Alpha cruzamento Groq: https://ziuluiziul.github.io/groq-round1-offer/PIX20-CHECKLIST.md (R$20 `pix-r20`)
