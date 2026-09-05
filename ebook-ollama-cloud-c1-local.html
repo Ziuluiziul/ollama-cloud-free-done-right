@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Ebook — Ollama Cloud c=1 + Local</title>
+<style>
+body{font-family:system-ui,sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;line-height:1.5}
+h1,h2{line-height:1.2} table{border-collapse:collapse;width:100%} td,th{border:1px solid #ddd;padding:.4rem .6rem;text-align:left}
+.tip{border:2px solid #0a7;border-radius:12px;padding:1rem;margin:1.5rem 0;background:#f4fff8}
+img{max-width:160px} a{color:#06c} code{background:#f3f3f3;padding:0 .25rem;border-radius:4px}
+</style></head><body>
+<p><a href="./">← Landing</a> · <a href="ebook-ollama-cloud-c1-local.pdf">PDF</a></p>
+<h1>Ebook — Ollama Cloud Free (c=1) + Local</h1>
+<p>Fontes: <a href="https://docs.ollama.com/cloud">cloud docs</a> · <a href="https://ollama.com/pricing">pricing</a> · <a href="https://docs.ollama.com/api/errors">api/errors</a> · <code>GET /api/tags</code></p>
+<div class="tip">
+<strong>Tip PIX R$10 (Essencial)</strong> — recebedor <strong>LUIZ</strong> · EMV <code>qr_4</code><br/>
+<a href="qr_4.png"><img src="qr_4.png" alt="PIX R$10"/></a><br/>
+<a href="pix_copia_cola_4.txt">copia-cola R$10</a>
+</div>
+<h2>1. Dois modos</h2>
+<table><tr><th>Modo</th><th>Onde</th><th>Limite</th></tr>
+<tr><td>Local</td><td>Teu hardware</td><td>VRAM/RAM do PC</td></tr>
+<tr><td>Cloud Free</td><td>Servidores Ollama</td><td><strong>1 concurrent</strong> + créditos starter</td></tr></table>
+<h2>2. Regra Free = concurrent 1</h2>
+<ul>
+<li>Free=1 · Pro=3 · Max/Team=10 (FAQ pricing)</li>
+<li>HTTP <code>429</code> / <code>503</code> — retry só nesses com backoff</li>
+<li>RPM <strong>não</strong> publicado — não inventar</li>
+</ul>
+<h2>3. Serializar</h2>
+<ol>
+<li>Máximo 1 Cloud em voo</li>
+<li>Esperar <code>done</code> / fim do stream</li>
+<li>Só então o próximo</li>
+<li>Exhausted → chat/apps em ollama.com</li>
+</ol>
+<h2>4. Local + Cloud</h2>
+<ul>
+<li>Local: <code>ollama run &lt;modelo&gt;</code></li>
+<li>Cloud CLI: sufixo <code>-cloud</code></li>
+<li>API: <code>POST https://ollama.com/api/chat</code></li>
+</ul>
+<h2>5. Pacotes</h2>
+<p>R$10=<code>qr_4</code> · R$20=<code>pix-r20</code> · R$50=<code>qr_2</code> · R$100=<code>qr_0</code> · ver <a href="PIX-MAPA.md">PIX-MAPA</a></p>
+<p><a href="FREE-429-CONCURRENT1.md">FREE-429-CONCURRENT1</a> · <a href="PLAYBOOK.md">PLAYBOOK</a> · Hub <a href="https://ziuluiziul.github.io/round1-cumulunimbus/">ROUND1</a></p>
+</body></html>
