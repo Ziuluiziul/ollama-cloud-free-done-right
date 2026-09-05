@@ -19,3 +19,5 @@ Dev.to: https://dev.to/ziul_941087d2c1f1edc7d824/ollama-cloud-free-concurrent1-s
 Alpha mesh:
 - Groq: https://dev.to/ziul_941087d2c1f1edc7d824/groq-free-tier-cheatsheet-de-limites-failover-multi-modelo-pt-br-297j · https://ziuluiziul.github.io/groq-round1-offer/
 - OpenRouter: https://ziuluiziul.github.io/openrouter-free-oferta/
+
+Volume free+: [FREE-429-CONCURRENT1.md](./FREE-429-CONCURRENT1.md)
